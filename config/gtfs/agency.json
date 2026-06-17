@@ -1,5 +1,5 @@
 {
-    "target_route_type_id": 1,
+    "target_route_type_id": 3,
     "default_color": "3FB873",
     "default_color_comment": "GREEN (from PDF map)",
     "default_color_enabled": true,
