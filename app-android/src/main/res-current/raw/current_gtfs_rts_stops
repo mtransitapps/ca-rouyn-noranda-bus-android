@@ -1,0 +1,119 @@
+1,'1','Rue Saguenay / Rue Poirier',48.29297,-79.03880,0,49
+2,'2','Saguenay / Réal Caouette',48.29127,-79.03829,0,50
+3,'3','Saguenay / Chemin Étangs',48.28686,-79.03690,0,51
+4,'4','Saguenay / Chemin St-Luc',48.28156,-79.03530,0,52
+5,'5','Saguenay / Gaston Rheault',48.27661,-79.03377,0,53
+6,'6','Saguenay / Jeanne-Corbin',48.27128,-79.02814,0,54
+7,'7','Rue Saguenay / Route Osisko',48.26797,-79.02066,0,55
+8,'8','Saguenay / Marcel Baril',48.26083,-79.02212,0,56
+9,'9','Rue Saguenay / Av George',48.24951,-79.02846,0,57
+10,'10','Av Murdoch / Av Québec',48.24718,-79.02362,0,1567
+11,'11','Av Murdoch / 10e Rue',48.24695,-79.02038,0,1568
+12,'12','Hôpital',48.24284,-79.02085,0,1569
+13,'13','Dallaire / Term Ouest',48.24154,-79.02271,0,1570
+14,'14','Dallaire / Mgr-Tessier O',48.23942,-79.02275,0,1571
+15,'15','Dallaire / Mgr-Rhéaume O',48.23574,-79.02276,0,1572
+16,'16','Av Dallaire / Av Ménard',48.22961,-79.02314,0,1573
+17,'17','Av Dallaire / Rue Duvernay',48.22794,-79.02672,0,1574
+18,'18','Av Québec / Rue Duvernay',48.22909,-79.02902,0,1575
+19,'19','Québec / Iberville Ouest',48.23218,-79.03189,0,1576
+20,'20','Montréal Ouest / Wolfe',48.23363,-79.02999,0,1598
+21,'21','Montréal Ouest / Mercier',48.23362,-79.02662,0,1599
+22,'22','Oblats Est / Forget',48.23034,-79.01735,0,1600
+23,'23','Iberville Est / Larivière',48.23115,-79.01386,0,1601
+24,'24','Université / Ibervile Est',48.23086,-79.00989,0,1602
+25,'25','Université / Gagné',48.22948,-79.00991,0,1603
+27,'27','Ind / Beauchemin',48.22126,-79.01971,0,1605
+28,'28','Av Granada / Rue Yvon',48.21094,-79.02151,0,1606
+29,'29','Av Granada / Rue Rollin',48.19556,-79.03993,0,1607
+30,'30','Rue Talbot',48.19318,-79.04360,0,1629
+31,'31','Pierre-Larivière / Desgagnés',48.19485,-79.04723,0,1630
+32,'32','Moreau / Mtée Laframboise',48.19672,-79.04399,0,1631
+33,'33','Mtée Laframboise / Granada',48.19492,-79.04112,0,1632
+34,'34','Av Granada / Rue Rollin',48.19526,-79.04010,0,1633
+35,'35','Av Granada / Rue Yvon',48.21108,-79.02122,0,1634
+36,'36','Ind / Beauchemin',48.22113,-79.02166,0,1635
+37,'37','Avenue Chaussé',48.22561,-79.00660,0,1636
+38,'38','Université / Gagné',48.22886,-79.00960,0,1637
+39,'39','Université / Ibervile Est',48.23083,-79.00956,0,1638
+40,'40','Iberville Est / Larivière',48.23135,-79.01385,0,1660
+41,'41','Oblats Est / Forget',48.23055,-79.01789,0,1661
+42,'42','Dallaire / Mgr-Rhéaume O',48.23621,-79.02247,0,1662
+43,'43','Dallaire / Mgr-Tessier O',48.23927,-79.02247,0,1663
+44,'44','Dallaire / Term Ouest',48.24148,-79.02251,0,1664
+45,'45','Hôpital',48.24347,-79.02018,0,1665
+46,'46','Av Murdoch / 9e Rue',48.24710,-79.01993,0,1666
+47,'47','Av Murdoch / Av Québec',48.24737,-79.02355,0,1667
+48,'48','Rue Saguenay / Av Georges',48.24934,-79.02812,0,1668
+49,'49','Saguenay / Marcel-Baril',48.26068,-79.02184,0,1669
+50,'50','Saguenay / Dufresnoy',48.26930,-79.02299,0,1691
+51,'51','Saguenay / Élodie-Turcotte',48.27149,-79.02793,0,1692
+52,'52','Saguenay / Gaston Rheault',48.27637,-79.03331,0,1693
+53,'53','Saguenay / Chemin St-Luc',48.28200,-79.03505,0,1694
+54,'54','Saguenay / Chemin Étangs',48.28657,-79.03645,0,1695
+55,'55','Saguenay / Réal Caouette',48.29220,-79.03825,0,1696
+56,'56','Rue Saguenay / Rue Morin',48.29410,-79.03883,0,1697
+57,'57','Rue D''Évain / Av Payeur',48.24137,-79.12776,0,1698
+58,'58','Église / Yvette-Leblanc',48.24208,-79.12892,0,1699
+59,'59','Av Payeur / Rue Beaudry',48.24375,-79.12746,0,1700
+60,'60','Rue Rocheleau / Av Payeur',48.24646,-79.12395,0,1722
+61,'61','Rue D''Évain / Av Victor',48.24275,-79.11850,0,1723
+62,'62','Rue D''Évain / Rue Caron',48.24530,-79.09504,0,1724
+63,'63','Av Murdoch / 21e Rue',48.24656,-79.04445,0,1725
+64,'64','20e Rue / Av Champlain',48.24586,-79.04139,0,1726
+65,'65','Av Richelieu / 20e Rue',48.24388,-79.03892,0,1727
+66,'66','Av Richelieu / 17e Rue',48.24399,-79.03400,0,1728
+67,'67','15e Rue / Av Gatineau',48.24365,-79.03185,0,1729
+68,'68','Place Rouanda',48.24131,-79.03251,0,1730
+69,'69','Gamble Ouest / Fortin',48.23968,-79.02792,0,1731
+70,'70','Gamble Ouest / Mercier',48.23983,-79.02447,0,1753
+71,'71','Dallaire / Term Ouest',48.24148,-79.02251,0,1754
+72,'72','Av Dallaire / 10e Rue',48.24321,-79.02329,0,1755
+73,'73','Av Du Palais / 10e Rue',48.24358,-79.02218,0,1756
+74,'74','Av Du Lac / Rue Gamble Est',48.24066,-79.01878,0,1757
+75,'75','Services Canada',48.23885,-79.01659,0,1758
+76,'76','Perreault Est / Larivière',48.23809,-79.01409,0,1759
+77,'77','Perreault Est / Université',48.23808,-79.00816,0,1760
+78,'78','Université / Mgr-Rhéaume E',48.23615,-79.00752,0,1761
+79,'79','Av Larivière / Av Chaussé',48.22637,-79.00624,0,1762
+80,'80','Larivière / Laliberté',48.22481,-78.99943,0,1784
+81,'81','Av Laliberté / Rue Côté',48.22685,-78.99793,0,1785
+82,'82','Laliberté / Sabin-Thibault',48.23086,-78.99808,0,1786
+83,'83','Ste-Bernadette / Laliberté',48.23526,-78.99895,0,1787
+84,'84','Ste-Bernadette / Perreault E',48.23803,-78.99924,0,1788
+85,'85','Rue Perreault Est',48.23809,-78.99523,0,1789
+86,'86','Rue Perreault Est (Sœurs)',48.23784,-78.99091,0,1790
+87,'87','Perreault E / Mtée Sourire',48.23794,-78.98753,0,1791
+88,'88','Mtée Sourire / Paradis',48.23579,-78.98658,0,1792
+89,'89','Mtée Sourire / Lorimier',48.23408,-78.98640,0,1793
+90,'90','Mtée Sourire / Rioux',48.23223,-78.98660,0,1815
+91,'91','Marie-Victorin / Pl Cinquantenaire',48.22951,-78.98975,0,1816
+92,'92','Marie-Victorin / Pl Jean-Guy Hamelin',48.22849,-78.99460,0,1817
+93,'93','Marie-Victorin / Laliberté',48.22894,-78.99767,0,1818
+94,'94','Av Laliberté / Rue Côté',48.22701,-78.99819,0,1819
+95,'95','Larivière / Laliberté',48.22479,-78.99851,0,1820
+96,'96','Av Larivière / Av Duret',48.22649,-79.00582,0,1821
+97,'97','Université / Mgr-Rhéaume E',48.23591,-79.00722,0,1822
+98,'98','Perreault Est / Université',48.23826,-79.00859,0,1823
+99,'99','Perreault Est / Larivière',48.23827,-79.01354,0,1824
+100,'100','Services Canada',48.23939,-79.01753,0,48625
+101,'101','Av Du Lac / Rue Gamble Est',48.24077,-79.01854,0,48626
+102,'102','Av Du Palais / 10e Rue',48.24372,-79.02200,0,48627
+103,'103','Av Dallaire / 10e Rue',48.24296,-79.02334,0,48628
+104,'104','Dallaire / Term Ouest',48.24154,-79.02271,0,48629
+105,'105','Gamble Ouest / Pelletier',48.24001,-79.02322,0,48630
+106,'106','Gamble Ouest / Québec',48.23998,-79.02707,0,48631
+107,'107','Place Rouanda',48.24082,-79.03243,0,48632
+108,'108','15e Rue / Av Gatineau',48.24358,-79.03165,0,48633
+109,'109','Av Richelieu / 17e Rue',48.24415,-79.03402,0,48634
+110,'110','Av Richelieu / 20e Rue',48.24400,-79.03916,0,48656
+111,'111','20e Rue / Av Champlain',48.24583,-79.04118,0,48657
+112,'112','Av Murdoch / 21e Rue',48.24666,-79.04497,0,48658
+100045,'45-A','9e Rue / Av Murdoch',48.24749,-79.01900,0,51680
+100060,'60-A','Av Victor / Rue Dubois',48.24460,-79.11908,0,53447
+100061,'61-A','Rue D''Évain / Av Latour',48.24336,-79.10510,0,53478
+200045,'45-B','9e Rue / Av Carter',48.24854,-79.01889,0,51681
+300045,'45-C','Av Carter / 7e Rue',48.24851,-79.01640,0,51682
+400045,'45-D','Av Carter / 4e Rue',48.24818,-79.01241,0,51683
+500045,'45-E','Av Murdoch / 4e Rue',48.24652,-79.01266,0,51684
+600045,'45-F','Av Murdoch / 7e Rue',48.24677,-79.01622,0,51685

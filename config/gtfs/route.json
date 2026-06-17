@@ -2,8 +2,23 @@
     "default_route_id_enabled": true,
     "use_route_short_name_for_route_id": true,
     "default_route_long_name_enabled": true,
+    "route_short_name_to_route_id_configs": [
+        {
+            "route_short_name": "1+",
+            "route_id": 10000
+        },
+        {
+            "route_short_name": "2+",
+            "route_id": 20000
+        }
+    ],
+    "direction_types": [
+        1
+    ],
+    "direction_types_comment": "East/West/North/South",
     "direction_finder_enabled": true,
     "trip_headsign_remove_via": true,
     "trip_headsign_cleaners": [],
+    "stop_id_cleanup_regex": "-",
     "stop_name_cleaners": []
 }
