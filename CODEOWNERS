@@ -1,3 +1,2 @@
 # ORIGINAL FILE: https://github.com/mtransitapps/commons/tree/master/shared-overwrite-all-repositories
-[config]
-publish_output_progress = false  # Disables the temporary "review in progress" comments
+*  @mtransitapps/codeowners
